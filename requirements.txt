@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langgraph
+python-chess
+tenacity
+pydantic
+pandas
+gradio
